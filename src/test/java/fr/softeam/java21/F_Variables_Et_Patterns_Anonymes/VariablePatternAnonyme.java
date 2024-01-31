@@ -13,7 +13,7 @@ public class VariablePatternAnonyme {
 
         int cpt=0;
 
-        for(String _:numbers){
+        for(String n:numbers){
             System.out.println(cpt++);
         }
 
