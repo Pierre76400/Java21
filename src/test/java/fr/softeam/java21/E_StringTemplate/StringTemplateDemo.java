@@ -2,9 +2,6 @@ package fr.softeam.java21.E_StringTemplate;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.List;
-
-import static java.lang.StringTemplate.RAW;
 import static java.util.FormatProcessor.FMT;
 
 public class StringTemplateDemo {

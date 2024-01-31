@@ -25,7 +25,7 @@ public class Divers {
 
         sb.repeat("Hip ",3);
 
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 
 
